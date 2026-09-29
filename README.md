@@ -60,3 +60,4 @@ chmod +x *.sh
 7. **NVIDIA drivers**: if 12-extras.sh installed a driver, **reboot** so the new kernel module is loaded (`nvidia-smi`).
 # ubuntu-setup
 # ubuntu-setup
+# ubuntu-setup
